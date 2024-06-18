@@ -1,1 +1,1 @@
-Here we provide trace data for both spin boson model (sb) and FMO complex. 
+Here, we provide data and Jupyter Notebooks for hands-on practice related to our recent work, which can be found at [https://doi.org/10.48550/arXiv.2404.14021](https://doi.org/10.48550/arXiv.2404.14021).
